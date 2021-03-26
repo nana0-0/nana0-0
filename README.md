@@ -1,4 +1,4 @@
-### I am Nanai 🦈
+### I am Nanai 🦈💭
 
 - 🌱 I’m currently learning Deep Learning.
 - 🌱ディープラーニングを勉強しています
