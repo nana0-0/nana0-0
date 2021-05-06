@@ -1,10 +1,7 @@
-### I am Nanai 🦈💭
-### なないです 🦈💭
+### I am Nanai 
 
-- 🌱 I’m currently learning Deep Learning.
-- 🌱ディープラーニングを勉強しています
-- 👾 I like to draw pictures.
-- 👾絵を描くのが好きです
+- I’m currently learning Deep Learning.
+- I like to draw pictures.
 
 
 
